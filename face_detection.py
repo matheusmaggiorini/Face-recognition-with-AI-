@@ -1,4 +1,4 @@
-"""Real-time face detection with a loading-bar scan animation."""
+"""Webcam face detection with a loading bar."""
 
 from __future__ import annotations
 
